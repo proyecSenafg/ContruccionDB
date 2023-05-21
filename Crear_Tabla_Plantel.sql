@@ -1,0 +1,2 @@
+CREATE Table ejemplo.Plantel(Id_Plantel INT AUTO_INCREMENT NOT NULL, NombrePlantel VARCHAR(55) NOT NULL, DireccionPlantel TEXT NOT NULL,
+EmailPlantel VARCHAR(255) NOT NULL, TrlefonoPlante VARCHAR(55) NOT NULL, PRIMARY KEY(Id_Plantel)) ENGINE = InnoDB;
